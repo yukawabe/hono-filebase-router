@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "hono-vite-react-stack-example",
+  "name": "hono-filebase-router",
   "compatibility_date": "2025-03-20",
   "main": "./src/server/index.tsx",
   "assets": {
