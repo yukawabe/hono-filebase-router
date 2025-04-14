@@ -43,5 +43,6 @@ APIエンドポイントの型定義を自動的に生成し、フロントエ�
 
 このプロジェクトは以下のリポジトリを参考にしています：
 
+- [hono-vite-react-stack](https://github.com/yusukebe/hono-vite-react-stack)
 - [file-base-routing-framework](https://github.com/yusukebe/file-base-routing-framework)
 - [my-app-typegen](https://github.com/yusukebe/my-app-typegen)
